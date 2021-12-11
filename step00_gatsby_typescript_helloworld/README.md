@@ -53,7 +53,7 @@ This starter is meant as a minimal reproduction of a Gatsby project in order to 
     gatsby recipes typescript --install
     ```
 
-##### Some useful resources ...
+### Some useful resources ...
 
 [Next.js vs. GatsbyJS: A developer’s perspective](https://blog.logrocket.com/next-js-vs-gatsbyjs-a-developers-perspective/)
 
