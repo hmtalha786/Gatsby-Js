@@ -65,8 +65,3 @@ Alternatives to Netlify:
 Must Read:
 
 [New to JAMstack? Everything You Need to Know to Get Started](https://snipcart.com/blog/jamstack)
-
-
-
-
-
