@@ -1,4 +1,4 @@
-# Create FaunaDB Database, Setup a Collection, and Create an Index with Node.js
+## Create FaunaDB Database, Setup a Collection, and Create an Index with Node.js
 
 FaunaDB Overview:
 
